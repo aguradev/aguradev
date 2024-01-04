@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Alterstay as backend developer**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 Interest In **Golang** And **VueJs**
 
 - 📫 How to reach me **agungrageshwara24@gmail.com**
 
