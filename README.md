@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Agung Rageshwara</h1>
 <h3 align="left">An Ordinary Person Like Code, Backend Developer</h3>
 
-- 🔭 I’m currently working on **Alterstay as backend developer**
-
 - 🌱 Interest In **Golang** And **VueJs**
 
 - 📫 How to reach me **agungrageshwara24@gmail.com**
