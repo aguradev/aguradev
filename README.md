@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Agung Rageshwara</h1>
-<h3 align="center">An Ordinary Person Like Code</h3>
+<h1 align="left">Hi 👋, I'm Agung Rageshwara</h1>
+<h3 align="left">An Ordinary Person Like Code</h3>
 
 - 🌱 I’m currently learning **ReactJS, Typescript, Go**
 
