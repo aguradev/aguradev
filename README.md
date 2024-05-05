@@ -1,3 +1,4 @@
+[Welcome](https://giphy.com/embed/XD9o33QG9BoMis7iM4)
 <h3 align="center">Road to Full Stack Web Developer 🤖 | Backend Engineer ⚙ | An Ordinary Person Like Code</h2>
 
 <h3>Biodata 👨‍🔧</h4>
@@ -16,27 +17,27 @@
 
 <h5>Front End</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,vuejs,tailwindcss)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,vuejs,tailwindcss)](https://skillicons.dev)
 
 <h5>Backend End</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,php,go)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=js,nodejs,php,go)](https://skillicons.dev)
 
 <h5>Full Stack</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,laravel,nuxtjs,inertiajs)](https://skillicons.dev)
+[![Fullstack](https://skillicons.dev/icons?i=typescript,laravel,nuxtjs,inertiajs)](https://skillicons.dev)
 
 <h5>Database</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
 
 <h5>Devops</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=githubactions,docker,linux,nginx)](https://skillicons.dev)
+[![Devops](https://skillicons.dev/icons?i=githubactions,docker,linux,nginx)](https://skillicons.dev)
 
 <h5>Cloud Computing (know a basic but not expert, interest to deeping 🚀)</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,aws)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=gcp,aws)](https://skillicons.dev)
 
 <hr/>
 
