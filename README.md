@@ -1,5 +1,5 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBqcDdmeDN5cjlmZDVsOWM0bWQzOTB2bjVqa3lxZzI4eGl2ZzZ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XD9o33QG9BoMis7iM4/giphy.gif" width="100%"/>
-<h3 align="center">Road to Full Stack Web Developer 🤖 | Backend Engineer ⚙ | An Ordinary Person Like Code</h2>
+<h3 align="center"> Vilt & Nuxt Stack | Backend Engineer ⚙ | An Ordinary Person Like Code</h2>
 
 <h3>Biodata 👨‍🔧</h4>
 
