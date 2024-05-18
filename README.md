@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBqcDdmeDN5cjlmZDVsOWM0bWQzOTB2bjVqa3lxZzI4eGl2ZzZ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XD9o33QG9BoMis7iM4/giphy.gif" width="100%"/>
+<img src="https://i.pinimg.com/originals/17/16/50/171650766f341c6e9b809184f2b7ee95.gif" width="100%"/>
 <h3 align="center"> Vilt & Nuxt Stack | Backend Engineer ⚙ | An Ordinary Person Like Code</h2>
 
 <h3>Biodata 👨‍🔧</h4>
