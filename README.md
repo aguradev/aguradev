@@ -4,8 +4,7 @@
 <h3>Biodata 👨‍🔧</h4>
 
 - Hello, call me 🕺 `Rages`
-- 🚀 currently learning `ReactJS`, `Typescript`, `Bun\NodeJs`
-- My Tech Stack `NuxtJS`, `VueJS`, `Golang`, `Laravel`, `Javascript`
+- My Tech Stack `NuxtJS`, `VueJS`, `ReactJS`, `Golang`, `Laravel`, `Javascript`
 - 📬 How to reach me **agungrageshwara24@gmail.com**
 
 <h4 align="left">Connect with me:</h3>
